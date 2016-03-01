@@ -4,4 +4,5 @@
 	echo 'fird message! licence.php';
 	echo 'forth message! licence.php';
 	echo 'master branch';
+	echo 'for github';
 ?>
